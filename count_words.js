@@ -23,3 +23,5 @@ function countCharacters(text) {
     text = text.replace(/[*_#`~[\]()<>-]/g, '');
     return text.length;
 }
+
+
